@@ -1,2 +1,1 @@
-name = "YOYO"
-print(f"Hello,{name}!")
+print("Today is firstday")
